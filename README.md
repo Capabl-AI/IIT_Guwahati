@@ -1,5 +1,5 @@
-# CEC
-CEC Project Submission Repository
+# IIT Guwahati
+Project Submission Repository
 
 ## Video Link
 
